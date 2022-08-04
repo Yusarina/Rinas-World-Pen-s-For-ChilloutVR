@@ -16,3 +16,7 @@ There is also a global reset button and a global clear button, however there are
 Images of the pen's:
 ![alt text](https://i.imgur.com/N1qzLqW.jpeg)
 ![alt text](https://i.imgur.com/QAiJfsj.jpeg)
+
+License:
+You can do what you want, just please credit me/ do not remove the github link.
+Pen model made by myself, you can use it in your own projects if you want too.

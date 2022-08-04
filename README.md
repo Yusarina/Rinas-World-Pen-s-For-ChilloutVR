@@ -10,7 +10,7 @@ Local Clear button.
 
 There is also a global reset button and a global clear button, however there are hidden by default, to turn the buttons on go to UI and just turn on the objects.
 
-![alt text](https://imgur.com/2AarESA)
+![alt text](https://i.imgur.com/2AarESA.jpeg)
 
 
 Images of the pen's:

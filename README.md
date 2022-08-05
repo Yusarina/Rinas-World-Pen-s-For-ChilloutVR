@@ -10,7 +10,8 @@ Features:
 - Each pen has a local clear button at the end of it.
 - Turn the pen's on/off.
 - Local Clear button.
-- There are two versions:
+
+There are two versions:
 
 - V1: Uses aminations is the current recommended version.
 - V2: Uses no aminations but uses Method Calls, this isn't recommended version unto A: most testing can be done to make sure there stable and B: the game is more stable.

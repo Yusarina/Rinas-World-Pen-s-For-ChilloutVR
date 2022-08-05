@@ -9,8 +9,8 @@ Features:
 - Local Clear button.
 
 There are two versions:
-V1: Uses anminations is the current recomended version.
-V2: Uses no anminations but uses Method Calls, this isn't recomended version unto A: most testing can be done to make sure there stable and B: the game is more stable.
+- V1: Uses anminations is the current recomended version.
+- V2: Uses no anminations but uses Method Calls, this isn't recomended version unto A: most testing can be done to make sure there stable and B: the game is more stable.
 
 There is also a global reset button and a global clear button, however there are hidden by default, to turn the buttons on go to UI and just turn on the objects.
 

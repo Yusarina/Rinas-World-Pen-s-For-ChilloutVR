@@ -1,4 +1,4 @@
-# Jolia's World Pen's For ChilloutVR
+# Jolia's World Pens For ChilloutVR
 
 These pen's are for ChilloutVR Worlds, simply import the Unity Package into Unity, go to objects folder and place the prefab into your project.
 

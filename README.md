@@ -15,6 +15,8 @@ Requirments:
 - Basic Unity and CVR knowledge.
 - TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.
 
+If you have TextMeshPro installed but the UI is blank, go to the top menu, go to Windows - TextMeshPro - Import TMP Example & Extras. This should import the example fonts you need for the UI.
+
 Features:
 
 - 9 Pens, White, Black, Blue, Yellow, Pink and Red, Orange and Purple.

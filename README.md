@@ -2,7 +2,18 @@
 
 These pen's are for ChilloutVR Worlds, simply import the Unity Package into Unity, go to objects folder and place the prefab into your project.
 
-You can also get this on gumroad: https://joliavr.gumroad.com/l/joliascvrworldpens
+A Pen which is a prop for ChlloutVR
+
+You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliascvrpen
+Find more assets on my website: https://jolia.xyz
+Join my discord server: https://discord.gg/T8zYhgvcpF
+
+Requirments:
+
+- Unity 2019.4.31f1
+- ChilloutVR CCK 3.3
+- Basic Unity and CVR knowledge.
+- TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.
 
 Features:
 
@@ -10,16 +21,6 @@ Features:
 - Each pen has a local clear button at the end of it.
 - Turn the pen's on/off.
 - Local Clear button.
-
-There are two versions:
-
-- V1: Uses aminations is the current recommended version.
-- V2: Uses no aminations but uses Method Calls, this isn't recommended version unto A: most testing can be done to make sure there stable and B: the game is more stable.
-
-Requirements:
-
-- Unity 2019.4.31f1.
-- ChilloutVR CCK 3.3.
 
 There is also a global reset button and a global clear button, however there are hidden by default, to turn the buttons on go to UI and just turn on the objects.
 

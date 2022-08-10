@@ -8,7 +8,7 @@ A Pen which is a prop for ChlloutVR
 - Find more assets on my website: https://jolia.xyz
 - Join my discord server: https://discord.gg/T8zYhgvcpF
 
-Requirments:
+Requirements:
 
 - Unity 2019.4.31f1
 - ChilloutVR CCK 3.3
@@ -19,7 +19,7 @@ If you have TextMeshPro installed but the UI is blank, go to the top menu, go to
 
 Features:
 
-- 9 Pens, White, Black, Blue, Yellow, Pink and Red, Orange and Purple.
+- 9 Pens, White, Black, Blue, Yellow, Pink, Red, Green, Orange and Purple.
 - Each pen has a local clear button at the end of it.
 - Turn the pen's on/off.
 - Local Clear button.
@@ -30,8 +30,11 @@ There is also a global reset button and a global clear button, however there are
 
 
 Images of the pen's:
-![alt text](https://i.imgur.com/N1qzLqW.jpeg)
-![alt text](https://i.imgur.com/QAiJfsj.jpeg)
+![alt text](https://cloud.jolia.xyz/s/sa3iwEyQ5Zi8fCm/download/20220810125532_1.jpg)
+![alt text](https://cloud.jolia.xyz/s/kPQdddfZGfwWZQC/download/20220810125541_1.jpg)
+![alt text](https://cloud.jolia.xyz/s/fQiEbc5AfJAxm8N/download/20220810125546_1.jpg)
+![alt text](https://cloud.jolia.xyz/s/ZW6KwBGjtmJawpM/download/20220810125549_1.jpg)
+![alt text](https://cloud.jolia.xyz/s/AaHG5T2Ega58Lp2/download/20220810125600_1.jpg)
 
 License:
 

@@ -3,7 +3,7 @@ Ensure you world pen's are updated to the latest version (0.3.2+) as previous pe
 
 These pen's are for ChilloutVR Worlds, simply import the Unity Package into Unity, go to objects folder and place the prefab into your project.
 
-A Pen which is a prop for ChlloutVR
+A Pen which is a world prefab for ChlloutVR
 
 - You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliascvrworldpens
 - Find more assets on my website: https://jolia.xyz

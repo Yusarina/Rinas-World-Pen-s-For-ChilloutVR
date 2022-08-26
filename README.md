@@ -7,7 +7,7 @@ A Pen which is a world prefab for ChlloutVR
 
 - You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliascvrworldpens
 - Find more assets on my website: https://jolia.xyz
-- Join my discord server: https://discord.gg/T8zYhgvcpF
+- Join my discord server: https://discord.gg/dR6ekufKSM
 
 Requirements:
 

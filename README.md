@@ -31,11 +31,11 @@ There is also a global reset button and a global clear button, however there are
 
 
 Images of the pen's:
-![alt text](https://cloud.jolia.xyz/s/sa3iwEyQ5Zi8fCm/download/20220810125532_1.jpg)
-![alt text](https://cloud.jolia.xyz/s/kPQdddfZGfwWZQC/download/20220810125541_1.jpg)
-![alt text](https://cloud.jolia.xyz/s/fQiEbc5AfJAxm8N/download/20220810125546_1.jpg)
-![alt text](https://cloud.jolia.xyz/s/ZW6KwBGjtmJawpM/download/20220810125549_1.jpg)
-![alt text](https://cloud.jolia.xyz/s/AaHG5T2Ega58Lp2/download/20220810125600_1.jpg)
+![alt text](https://i.imgur.com/ItGLwmP.jpg)
+![alt text](https://i.imgur.com/JmalJol.jpg)
+![alt text](https://i.imgur.com/SUjm7WF.jpg)
+![alt text](https://i.imgur.com/hvo5plp.jpg)
+![alt text](https://i.imgur.com/hYrO5Sg.jpg)
 
 License:
 

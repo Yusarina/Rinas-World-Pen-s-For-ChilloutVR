@@ -30,10 +30,12 @@ There are 2 versions.
 - Unlimted Time Version: This version will not auto-remove the trail after 5 minutes.
 
 There is also a global reset button and a global clear button, however there are hidden by default, to turn the buttons on go to UI and just turn on the objects.
+
 ![alt text](https://i.imgur.com/2AarESA.jpeg)
 
 
 Images of the pen's:
+
 ![alt text](https://i.imgur.com/LxbZC1o.jpg)
 ![alt text](https://i.imgur.com/F1IJGOG.jpg)
 ![alt text](https://i.imgur.com/qW1kHxX.jpg)

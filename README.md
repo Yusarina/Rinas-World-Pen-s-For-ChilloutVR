@@ -3,10 +3,10 @@ Ensure you world pen's are updated to the latest version (0.3.2+) as previous pe
 
 These pen's are for ChilloutVR Worlds, simply import the Unity Package into Unity, go to objects folder and place the prefab into your project.
 
-A Pen which is a world prefab for ChlloutVR
+A Pen which is a prop for ChlloutVR
 
-- You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliascvrworldpens
-- Find more assets on my website: https://jolia.xyz
+- See my gumroad: https://joliavr.gumroad.com/l/joliascvrworldpens
+- See my github: https://github.com/JoliaVR/Jolia-s-World-Pen-s-For-ChilloutVR
 - Join my discord server: https://discord.gg/dR6ekufKSM
 
 Requirements:
@@ -25,18 +25,21 @@ Features:
 - Turn the pen's on/off.
 - Local Clear button.
 
-There is also a global reset button and a global clear button, however there are hidden by default, to turn the buttons on go to UI and just turn on the objects.
+There are 2 versions.
+- Timed Version: This version will auto remove the trail for the pen after 5 minutes.
+- Unlimted Time Version: This version will not auto-remove the trail after 5 minutes.
 
+There is also a global reset button and a global clear button, however there are hidden by default, to turn the buttons on go to UI and just turn on the objects.
 ![alt text](https://i.imgur.com/2AarESA.jpeg)
 
 
 Images of the pen's:
-![alt text](https://i.imgur.com/ItGLwmP.jpg)
-![alt text](https://i.imgur.com/JmalJol.jpg)
-![alt text](https://i.imgur.com/SUjm7WF.jpg)
-![alt text](https://i.imgur.com/hvo5plp.jpg)
-![alt text](https://i.imgur.com/hYrO5Sg.jpg)
+![alt text](https://i.imgur.com/LxbZC1o.jpg)
+![alt text](https://i.imgur.com/F1IJGOG.jpg)
+![alt text](https://i.imgur.com/qW1kHxX.jpg)
+![alt text](https://i.imgur.com/mHZ2KzX.jpg)
+![alt text](https://i.imgur.com/g0PQo3E.jpg)
 
 License:
 
-All my assets unless otherwise stated fall under the Creative Commons Attribution 4.0 International (CC BY 4.0) License which means you can use my assets in anyway you want as long as you give me credit! See the full license here: https://creativecommons.org/licenses/by/4.0/
+All my assets unless otherwise stated fall under the Creative Commons Attribution 4.0 International (CC BY 4.0) License which means you can use my assets in anyway you want as long as you give me credit! See the full license here: https://creativecommons.org/licenses/by/4.0/ 

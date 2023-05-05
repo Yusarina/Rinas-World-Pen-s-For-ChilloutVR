@@ -1,4 +1,7 @@
 # Jolia's World Pens For ChilloutVR
+
+NOTICE: AS OF 05/05/2023 I AM NO LONGER MAINTAINING THIS, THIS IS BECAUSE I HAVE TAKEN A BREAK FROM SOCIAL VR GAMES I MAY COME BACK IN THE FUTURE, BUT AS OF RIGHT NOW THE ITEM IS STILL WORKING HOWEVER FUTURE UPDATES TO CVR MAY BREAK IT.
+
 Ensure you world pen's are updated to the latest version (0.3.2+) as previous pen's won't sync over the network!
 
 These pen's are for ChilloutVR Worlds, simply import the Unity Package into Unity, go to objects folder and place the prefab into your project.

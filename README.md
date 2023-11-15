@@ -1,21 +1,18 @@
 # Jolia's World Pens For ChilloutVR
 
-NOTICE: AS OF 05/05/2023 I AM NO LONGER MAINTAINING THIS, THIS IS BECAUSE I HAVE TAKEN A BREAK FROM SOCIAL VR GAMES I MAY COME BACK IN THE FUTURE, BUT AS OF RIGHT NOW THE ITEM IS STILL WORKING HOWEVER FUTURE UPDATES TO CVR MAY BREAK IT.
-
-Ensure you world pen's are updated to the latest version (0.3.2+) as previous pen's won't sync over the network!
+NOTICE: The Pen has been updated to Unity 2021.3.23f1 and to CCK 3.7, hhowever further updates are not guaranteed.
 
 These pen's are for ChilloutVR Worlds, simply import the Unity Package into Unity, go to objects folder and place the prefab into your project.
 
 A Pen which is a prop for ChlloutVR
 
-- See my gumroad: https://joliavr.gumroad.com/l/joliascvrworldpens
-- See my github: https://github.com/JoliaVR/Jolia-s-World-Pen-s-For-ChilloutVR
-- Join my discord server: https://discord.gg/dR6ekufKSM
+- See my gumroad: https://yusarina.gumroad.com
+- See my github: https://github.com/Yusarina
 
 Requirements:
 
-- Unity 2019.4.31f1
-- ChilloutVR CCK 3.3
+- Unity 2023.3.23f1
+- ChilloutVR CCK 3.7
 - Basic Unity and CVR knowledge.
 - TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.
 

@@ -1,4 +1,4 @@
-# Jolia's World Pens For ChilloutVR
+# Rina's World Pens For ChilloutVR
 
 NOTICE: The Pen has been updated to Unity 2021.3.23f1 and to CCK 3.7, hhowever further updates are not guaranteed.
 

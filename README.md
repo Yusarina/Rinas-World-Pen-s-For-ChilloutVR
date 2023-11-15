@@ -4,8 +4,6 @@ NOTICE: The Pen has been updated to Unity 2021.3.23f1 and to CCK 3.7, hhowever f
 
 These pen's are for ChilloutVR Worlds, simply import the Unity Package into Unity, go to objects folder and place the prefab into your project.
 
-A Pen which is a prop for ChlloutVR
-
 - See my gumroad: https://yusarina.gumroad.com
 - See my github: https://github.com/Yusarina
 

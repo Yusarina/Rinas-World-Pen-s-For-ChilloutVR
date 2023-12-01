@@ -10,7 +10,7 @@ These pen's are for ChilloutVR Worlds, simply import the Unity Package into Unit
 
 Requirements:
 
-- Unity 2023.3.23f1
+- Unity 2021.3.23f1
 - ChilloutVR CCK 3.7
 - Basic Unity and CVR knowledge.
 - TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.

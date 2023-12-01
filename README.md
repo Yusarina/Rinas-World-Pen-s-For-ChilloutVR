@@ -6,6 +6,7 @@ These pen's are for ChilloutVR Worlds, simply import the Unity Package into Unit
 
 - See my gumroad: https://yusarina.gumroad.com
 - See my github: https://github.com/Yusarina
+- See all my social media sites here: https://yusarina.xyz
 
 Requirements:
 
